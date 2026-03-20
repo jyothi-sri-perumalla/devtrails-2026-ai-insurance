@@ -104,6 +104,12 @@ The system relies on multiple real-world data sources to validate claims.
 
 ## 3. UX Balance: Fair Handling of Flagged Claims
 
+##  UI/UX Design (Figma)
+
+Explore the complete mobile app design:
+
+ [SurakshaPay – Mobile App UI](https://www.figma.com/make/LNLwgqZ2RKmNp4PJuEtI5R/SurakshaPay-Mobile-App-UI?t=TwwK5WqOZeYsN7xx-20&fullscreen=1&preview-route=%2Fpayout)
+
 The system ensures fraud prevention without negatively impacting genuine users.
 
 ### Risk-Based Claim Processing
